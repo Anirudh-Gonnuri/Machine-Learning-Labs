@@ -2,3 +2,5 @@
 *.xlsx
 *.docx
 *.txt
+*.data
+*.names
